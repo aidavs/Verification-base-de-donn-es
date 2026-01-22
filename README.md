@@ -1,2 +1,2 @@
-# Verification-base-de-donn-es
+# Verification base de données
 Plusieurs fichiers qui permettent de vérifier des données
