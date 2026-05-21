@@ -1,2 +1,2 @@
-# Verification base de données
-Plusieurs fichiers qui permettent de vérifier des données
+# Verification base de données 
+Une application windows qui permet de vérifier des données
